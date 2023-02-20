@@ -1,10 +1,10 @@
 {
   "development": {
-    "username": "kxmcqila",
-    "password": "ZCsVdyMiHe9n74MSAkJIpVyIndXLGHUS",
-    "database": "kxmcqila",
-    "host": "postgres://kxmcqila:ZCsVdyMiHe9n74MSAkJIpVyIndXLGHUS@babar.db.elephantsql.com/kxmcqila",
-    "dialect": "postgres"
+    "username": "root",
+    "password": "Leosell1805",
+    "database": "orm-alura",
+    "host": "localhost",
+    "dialect": "mysql"
   },
   "test": {
     "username": "kxmcqila",
