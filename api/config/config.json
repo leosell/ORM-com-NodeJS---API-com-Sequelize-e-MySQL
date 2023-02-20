@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "kxmcqila",
+    "password": "ZCsVdyMiHe9n74MSAkJIpVyIndXLGHUS",
+    "database": "kxmcqila",
+    "host": "postgres://kxmcqila:ZCsVdyMiHe9n74MSAkJIpVyIndXLGHUS@babar.db.elephantsql.com/kxmcqila",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "kxmcqila",
+    "password": "ZCsVdyMiHe9n74MSAkJIpVyIndXLGHUS",
+    "database": "kxmcqila",
+    "host": "postgres://kxmcqila:ZCsVdyMiHe9n74MSAkJIpVyIndXLGHUS@babar.db.elephantsql.com/kxmcqila",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "kxmcqila",
+    "password": "ZCsVdyMiHe9n74MSAkJIpVyIndXLGHUS",
+    "database": "kxmcqila",
+    "host": "postgres://kxmcqila:ZCsVdyMiHe9n74MSAkJIpVyIndXLGHUS@babar.db.elephantsql.com/kxmcqila",
+    "dialect": "postgres"
+  }
+}
